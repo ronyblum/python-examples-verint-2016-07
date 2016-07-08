@@ -1,5 +1,5 @@
 """
-Exercise 03
+Exercise 04
 
 Write a Python script reading user input until user enters blank line. When blank line is entered, print all the inputs from the end to the beginning
 """
